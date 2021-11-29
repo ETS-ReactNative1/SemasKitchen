@@ -1,0 +1,1214 @@
+{
+  "categories" : [ {
+    "id" : "0",
+    "strCategory" : "Kurabiyeler",
+    
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown5.png?alt=media&token=ea76bcaf-d4c5-4b2e-a660-d7a8c2d2a728"
+  }, {
+    "id" : "1",
+    "strCategory" : "Pastalar",
+    
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown6.png?alt=media&token=8cc03d18-0edc-4d72-aec8-92b0dab51705"
+  }, {
+    "id" : "2",
+    "strCategory" : "Hamur İşleri",
+   
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown8.png?alt=media&token=ad13c6bf-d239-419a-a443-5ee251200376"
+  }, {
+    "id" : "3",
+    "strCategory" : "Fast Food",
+   
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown.png?alt=media&token=269b0d7c-fe19-4282-a05d-26648c7a4cf8"
+  }, {
+    "id" : "4",
+    "strCategory" : "Salata",
+    
+    "strCategoryThumb" : "https://www.rafinera.com/Upload/VisualdataArchive/f81c52f1-f6c7-4fa0-a82d-bb2ae4257507.jpg"
+  }, {
+    "id" : "5",
+    "strCategory" : "Aperatifler",
+    
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown3.png?alt=media&token=1e95b933-aca3-48de-a1ad-04dded8d8382"
+  }, {
+    "id" : "6",
+    "strCategory" : "Soslar ve Salçalar",
+    
+    "strCategoryThumb" : "https://www.fasdat.com.tr/cmsfiles/products/konserver-urunler-ve-salcalar.jpg?v=15"
+  }, {
+    "id" : "7",
+    "strCategory" : "Turşular",
+   
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown4.png?alt=media&token=48f02353-8619-47d3-b0c0-386d7c93eb23"
+  }, {
+    "id" : "8",
+    "strCategory" : "Çorbalar",
+   
+    "strCategoryThumb" : "https://cdn.kadin.com/images/posts/2/6/8/620x400/corba-1.png"
+  }, {
+    "id" : "9",
+    "strCategory" : "Kekler",
+   
+    "strCategoryThumb" : "https://www.pelinchef.com/wp-content/uploads/2018/04/kakaolu-islak-kek-1.jpg"
+  }, {
+    "id" : "10",
+    "strCategory" : "Pilavlar",
+    
+    "strCategoryThumb" : "https://www.hamarat.org/images/Beyaz-Pilav-73.jpg"
+  }, {
+    "id" : "11",
+    "strCategory" : "Yöresel Yemekler",
+   
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown11.png?alt=media&token=a4517236-0af2-42d4-9311-e3930d7e0d60"
+  }, {
+    "id" : "12",
+    "strCategory" : "Tatlılar",
+    "strCategoryThumb" : "https://firebasestorage.googleapis.com/v0/b/sema-skitchen.appspot.com/o/unknown12.png?alt=media&token=4dbc1267-6709-4a3b-9cde-e6fabef05f6c"
+  } ],
+  "meals" : [ {
+    "categoryId" : "12",
+    "image" : "https://im.haberturk.com/2020/07/22/ver1595394233/2751434_810x458.jpg",
+    "mealsId" : "0",
+    "strMeal" : "Elmalı Tatlı"
+  }, {
+    "categoryId" : "1",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/04/mozaik-pasta-yemekcom.jpg",
+    "mealsId" : "1",
+    "strMeal" : "Mozaik Pasta"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i20.haber7.net/resize/1300x788//haber/haber7/photos/2019/36/saray_sarmasi_nasil_yapilir_1567670914_0669.jpg",
+    "mealsId" : "2",
+    "strMeal" : "Kakaolu Saray Lokumu"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/10/sarlot-pasta-tarifi.jpg",
+    "mealsId" : "3",
+    "strMeal" : "Şarlot"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2018/03/hashasli-irmik-tatlisi-guncelleme-sunum-1.jpg",
+    "mealsId" : "4",
+    "strMeal" : "Haşhaşlı Tatlı"
+  }, {
+    "categoryId" : "4",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/04/patates-salatasi-yemekcom.jpg",
+    "mealsId" : "5",
+    "strMeal" : "Patates Salatası"
+  }, {
+    "categoryId" : "4",
+    "image" : "https://iasbh.tmgrup.com.tr/edffb6/812/467/0/151/1357/933?u=http://i.tmgrup.com.tr/sfr/2013/12/12/Orjinal/414062599819.jpg",
+    "mealsId" : "6",
+    "strMeal" : "Mantar Salatası"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2021/02/kartopu-tatlisi-fit.jpg",
+    "mealsId" : "7",
+    "strMeal" : "Kartopu"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://www.denenmistarifler.net/wp-content/uploads/2018/03/29401249_873639856149483_435108031357779968_n.jpg",
+    "mealsId" : "8",
+    "strMeal" : "İmam Sarığı"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://i.ytimg.com/vi/fhVGRgegMHE/maxresdefault.jpg",
+    "mealsId" : "9",
+    "strMeal" : "Pırasalı Kek"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/10/kalburabasti-yemekcom.jpg",
+    "mealsId" : "10",
+    "strMeal" : "Kalburabastı"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5c067495c03c0e20dca6938e.jpg",
+    "mealsId" : "11",
+    "strMeal" : "Kadayıflı Tatlı"
+  }, {
+    "categoryId" : "11",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2015/03/fellah-kofte-yemekcom.jpg",
+    "mealsId" : "12",
+    "strMeal" : "Fellah Köftesi"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://sosyallezzet.com/wp-content/uploads/2017/11/guvecte-patatesli-ispanak-sufle-tarifi-800x600.jpg",
+    "mealsId" : "13",
+    "strMeal" : "Ispanaklı Sufle"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://i2.milimaj.com/i/milliyet/75/0x410/5eeb87ed55428122ec7b7466.jpg",
+    "mealsId" : "14",
+    "strMeal" : "Havuçlu Kek"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/08/elmali-lezzet-toplari-yeni.jpg",
+    "mealsId" : "15",
+    "strMeal" : "Susamlı Toplar"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://iasbh.tmgrup.com.tr/7102f0/812/467/0/933/1475/1781?u=https://isbh.tmgrup.com.tr/sbh/2019/11/19/findikli-sekerpare-1574149526515.jpg",
+    "mealsId" : "16",
+    "strMeal" : "Şekerpare"
+  }, {
+    "categoryId" : "2",
+    "image" : "http://www.yemektariflerisayfasi.net/wp-content/uploads/2015/04/F%C4%B1nd%C4%B1kl%C4%B1-Ay-%C3%87%C3%B6re%C4%9Fi-Tarifi.jpg",
+    "mealsId" : "17",
+    "strMeal" : "Ay Böreği"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://www.adimadimyemektarifi.com/wp-content/uploads/2015/03/kahvaltilik-kolay-krep-tarifi-1024x675.jpg",
+    "mealsId" : "18",
+    "strMeal" : "Krep"
+  }, {
+    "categoryId" : "6",
+    "image" : "https://www.sostarifleri.gen.tr/images/salca-sosu.jpg",
+    "mealsId" : "19",
+    "strMeal" : "Salça Sos"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x0/5bfb920667b0a90304355bbf.jpg",
+    "mealsId" : "20",
+    "strMeal" : "Bursa Açması"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/paskalya_coregi-5932ecad-aa93-473b-848c-41fd434f9ccf.jpg",
+    "mealsId" : "21",
+    "strMeal" : "Paskalya Çöreği"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://www.ardaninmutfagi.com/wp-content/uploads/2017/06/elmali-biskuvili-tatli-2.jpg",
+    "mealsId" : "22",
+    "strMeal" : "Elmalı Muhallebili Tatlı"
+  }, {
+    "categoryId" : "4",
+    "image" : "https://cdn.ye-mek.net/App_UI/Img/out/650/2016/05/kavrulmus-tel-sehriye-salatasi-resimli-yemek-tarifi(11).jpg",
+    "mealsId" : "23",
+    "strMeal" : "Tel Şehriye Salatası"
+  }, {
+    "categoryId" : "1",
+    "image" : "https://www.pratikevyemekleri.com/wp-content/uploads/bfi_thumb/irmikli-lokum-tatlisi-tarifi-1-oe22n53klofdnra2rzntg4f4z1cpvg3eey692eegqw.jpg",
+    "mealsId" : "24",
+    "strMeal" : "Lokum Pasta"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2020/11/corek-otlu-tuzlu-kurabiye-tarifi.jpg",
+    "mealsId" : "25",
+    "strMeal" : "Çörekotlu Kurabiye"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2018/05/kedi-dili-tatlisi-one-cikan-yeni.jpg",
+    "mealsId" : "26",
+    "strMeal" : "Kedi Dili Tatlı"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/12/findikli-kurabiye-yeni-one-cikan.jpg",
+    "mealsId" : "27",
+    "strMeal" : "Fındıklı Kurabiye"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://www.tatlimutfak.com/content/images/size/w1920/wordpress/2019/07/479DBEC7-A7F4-48F9-9F62-20E1649D2DBF.jpeg",
+    "mealsId" : "28",
+    "strMeal" : "Tarçınlı Kurabiye"
+  }, {
+    "categoryId" : "5",
+    "image" : "https://iasbh.tmgrup.com.tr/a2e16b/821/464/31/0/730/395?u=https://isbh.tmgrup.com.tr/sbh/2021/08/26/mercimek-koftesi-tarifi-tam-olculu-mercimek-koftesi-tarifi-nasil-yapilir-1629966931776.jpg",
+    "mealsId" : "29",
+    "strMeal" : "Mercimekli Köfte"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.ye-mek.net/App_UI/Img/out/650/2016/09/labneli-tuzlu-kurabiye-resimli-yemek-tarifi(12).jpg",
+    "mealsId" : "30",
+    "strMeal" : "Kaymaklı Tuzlu"
+  }, {
+    "categoryId" : "3",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2017/01/ev-usulu-pizza-yeni.jpg",
+    "mealsId" : "31",
+    "strMeal" : "Pizza"
+  }, {
+    "categoryId" : "2",
+    "image" : "http://photos1.blogger.com/x/blogger/6211/872/1600/956087/DSC03389.jpg",
+    "mealsId" : "32",
+    "strMeal" : "Midye Çöreği"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://im.haberturk.com/2020/08/25/ver1598332705/2782627_810x458.jpg",
+    "mealsId" : "33",
+    "strMeal" : "Poğaça"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://www.pelinchef.com/wp-content/uploads/2011/11/ev-yap%C4%B1m%C4%B1-simit1.jpg",
+    "mealsId" : "34",
+    "strMeal" : "Simit"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://mutfaktaki.com/wp-content/uploads/2019/11/yalanci-tavuk-gogsu-tarifi-740x740.jpeg",
+    "mealsId" : "35",
+    "strMeal" : "Tavuk Göğüsü"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/12/hashasli-tatli-corek-tarifi.jpg",
+    "mealsId" : "36",
+    "strMeal" : "Haşhaşlı"
+  }, {
+    "categoryId" : "6",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/acili-kahvaltilik-sos-c0dd4002-be48-47c6-879e-88b6294cb283.jpg",
+    "mealsId" : "37",
+    "strMeal" : "Domatesli Biberli Sos"
+  }, {
+    "categoryId" : "7",
+    "image" : "https://4.bp.blogspot.com/-k5ZBjO3Ux_s/VhwELKoJyyI/AAAAAAAAEiQ/XV685Ze_tFE/s640/20151008_203436.jpg",
+    "mealsId" : "38",
+    "strMeal" : "Maraş Biberi Turşusu"
+  }, {
+    "categoryId" : "8",
+    "image" : "https://iasbh.tmgrup.com.tr/918dfd/752/395/0/57/1497/844?u=https://isbh.tmgrup.com.tr/sbh/2019/08/21/domates-corbasi-tarifi-en-guzel-kremali-domates-corbasi-nasil-yapilir-1566386388767.jpg",
+    "mealsId" : "39",
+    "strMeal" : "Domates Çorbası"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://tariflerleyemekler.com/yemek/orgulu-tatli.jpg",
+    "mealsId" : "40",
+    "strMeal" : "Örgülü Tatlı"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/05/tarak-tatlisi-yeni.jpg",
+    "mealsId" : "41",
+    "strMeal" : "Tarak Tatlısı"
+  }, {
+    "categoryId" : "8",
+    "image" : "https://blog.nerminhanim.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-05-at-21.04.06-1024x1024.jpeg",
+    "mealsId" : "42",
+    "strMeal" : "Brokoli Çorbası"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://www.basittatlitarifleri.com/wp-content/uploads/2017/08/bulbul-konagi-tatlisi.jpg",
+    "mealsId" : "43",
+    "strMeal" : "Bülbül Konağı"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2021/02/lokumlu-kurabiye-tarifi.jpg",
+    "mealsId" : "44",
+    "strMeal" : "Lokumlu Kurabiye"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/portakalli_kurabiye-a94e3511-8ed9-4279-9f7c-5c577bf10a58.jpg",
+    "mealsId" : "45",
+    "strMeal" : "Portakallı Kurabiye"
+  }, {
+    "mealsId" : 46,
+    "strMeal" : "Çörek otlu Kurabiye"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/cayli_kurabiye-f4ea80a9-cbf7-426d-9dd7-72eb8fc9c1da.jpg",
+    "mealsId" : "47",
+    "strMeal" : "Çaylı Kurabiye"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2021/03/havuclu-cevizli-tarcinli-kek-3-tarifi-son.jpg",
+    "mealsId" : "48",
+    "strMeal" : "Tarçınlı Kek"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2014/06/irmik-tatlisi-yeni.jpg",
+    "mealsId" : "49",
+    "strMeal" : "İrmik Tatlısı"
+  }, {
+    "categoryId" : "1",
+    "image" : "http://www.pastatarifleri.name/wp-content/uploads/kulahli-pasta.jpg",
+    "mealsId" : "50",
+    "strMeal" : "Külahlı Pasta"
+  }, {
+    "categoryId" : "5",
+    "image" : "http://www.yersofrasi.org/wp-content/uploads/2020/03/Mercimekli_icliKofte-2-819x1024.jpg",
+    "mealsId" : "51",
+    "strMeal" : "Mercimekli İçli Köfte"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/gazete-baklavasi-f02af2c2-d334-4934-bd5f-f4c09b365812.jpg",
+    "mealsId" : "52",
+    "strMeal" : "Gazete Baklavası"
+  }, {
+    "categoryId" : "10",
+    "image" : "https://www.ardaninmutfagi.com/wp-content/uploads/2018/04/enginarli-pilav-2.jpg",
+    "mealsId" : "53",
+    "strMeal" : "Enginarlı Pilav"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i.ytimg.com/vi/-bwUBwuIduA/maxresdefault.jpg",
+    "mealsId" : "54",
+    "strMeal" : "Isırgan Bezeli Tatlı"
+  }, {
+    "categoryId" : "1",
+    "image" : "https://im.haberturk.com/2020/08/24/ver1598243924/2781597_810x458.jpg",
+    "mealsId" : "55",
+    "strMeal" : "Rulo Pasta"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/10/kalburabasti-yemekcom.jpg",
+    "mealsId" : "56",
+    "strMeal" : "Kalburabastı"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://im.haberturk.com/2020/09/16/ver1600235092/2804806_810x458.jpg",
+    "mealsId" : "57",
+    "strMeal" : "Şambali"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://www.hamarat.org/images/Ispanakli-Pogaca-71.png",
+    "mealsId" : "58",
+    "strMeal" : "Ispanaklı Poğaça"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://i2.milimaj.com/i/milliyet/75/0x410/5faa756555427e12b48b9108.jpg",
+    "mealsId" : "59",
+    "strMeal" : "Ispanaklı Kek"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://www.kek.gen.tr/images/cup-kek.JPG",
+    "mealsId" : "60",
+    "strMeal" : "Kağıtlı Kek"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/05/gul-tatlisi.jpg",
+    "mealsId" : "61",
+    "strMeal" : "Gül Tatlısı"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://im.haberturk.com/2020/07/22/ver1595394233/2751434_810x458.jpg",
+    "mealsId" : "62",
+    "strMeal" : "Elmalı Kurabiye"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5f5a40f4c9de3d2e7049349f.jpg",
+    "mealsId" : "63",
+    "strMeal" : "Perişan Kurabiyesi"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2019/11/hindistan-cevizli-kurabiye-banu.jpg",
+    "mealsId" : "64",
+    "strMeal" : "Hindistan Cevizli Kurabiye"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5d2329c4d3806c1b0c18eacd.jpg",
+    "mealsId" : "65",
+    "strMeal" : "Tırtıklı Kurabiye"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://i2.milimaj.com/i/milliyet/75/0x410/5c8ce4fc07291c1d74005f4d.jpg",
+    "mealsId" : "66",
+    "strMeal" : "Islak Kek"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://filizinmutfagi.files.wordpress.com/2009/09/tatlisko3.jpg",
+    "mealsId" : "67",
+    "strMeal" : "Yeşil Yayla Tatlısı"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/08/incirli-kek-tarifi-yepyeni.jpg",
+    "mealsId" : "68",
+    "strMeal" : "İncirli Kek"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://www.hamarat.org/images/Peynirli-Kek-13.jpg",
+    "mealsId" : "69",
+    "strMeal" : "Peynirli Kek"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/07/yas-pasta-tarifi-one-cikan.jpg",
+    "mealsId" : "70",
+    "strMeal" : "Yaş Pasta"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2018/03/mini-kostebek-pasta-tarifi.jpg",
+    "mealsId" : "71",
+    "strMeal" : "Köstebek Pasta"
+  }, {
+    "categoryId" : "3",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/02/patates-tostu-yemekcom.jpg",
+    "mealsId" : "72",
+    "strMeal" : "Patatesli Tost"
+  }, {
+    "categoryId" : "11",
+    "image" : "https://cdn.yemek.com/mnresize/1250/833/uploads/2020/12/baharatli-icli-kofte-tarifi.jpg",
+    "mealsId" : "73",
+    "strMeal" : "İçli Köfte"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://img-s1.onedio.com/id-614aed51dbe0f00750d6bb1b/rev-0/w-620/f-jpg/s-58b3d51b956b3ddbff60750bfaadd3917b5027f4.jpg",
+    "mealsId" : "74",
+    "strMeal" : "Kolay Su Böreği"
+  }, {
+    "categoryId" : "6",
+    "image" : "https://www.gurmetarif.com/wp-content/uploads/2021/05/ev-yapimi-ketcap-tarifi.jpg",
+    "mealsId" : "75",
+    "strMeal" : "Doğal Ketçap"
+  }, {
+    "categoryId" : "11",
+    "image" : "https://www.kulturportali.gov.tr/repoKulturPortali/large/25022013/13da4259-5d84-4ddf-b39e-d483cdbcd91b.jpg",
+    "mealsId" : "76",
+    "strMeal" : "Katık Aşı"
+  }, {
+    "categoryId" : "11",
+    "image" : "https://1.bp.blogspot.com/-sDgPKg4pbS4/VVMedBMez3I/AAAAAAAABSY/oq94Rfwj_9k/s1600/tas-kofte.jpg",
+    "mealsId" : "77",
+    "strMeal" : "Taş Köfte"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5f3d17e0c03c0e1244adbf30.jpg",
+    "mealsId" : "78",
+    "strMeal" : "Rum Tatlısı"
+  }, {
+    "categoryId" : "8",
+    "image" : "https://lezzetler.com/images/yuklenen/eristeli-nohutlu-pinar-misket-kofteli-corba-90884.jpg",
+    "mealsId" : "79",
+    "strMeal" : "Misket Çorbası"
+  }, {
+    "categoryId" : "11",
+    "image" : "https://turkascihaberleri.com/Resimler/cacikli-arap-koftesi-tarifi-022.jpg",
+    "mealsId" : "80",
+    "strMeal" : "Arap Köftesi"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://i.ytimg.com/vi/kUAQ1RVSf8I/maxresdefault.jpg",
+    "mealsId" : "81",
+    "strMeal" : "Peynirli Armut Kurabiye"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://www.mutfakgunlugu.com/wp-content/uploads/2013/06/medovnik1.jpg",
+    "mealsId" : "82",
+    "strMeal" : "Zambak Çiceği Kurabiye"
+  }, {
+    "categoryId" : "3",
+    "image" : "https://www.nefislezzetim.com/wp-content/uploads/2020/12/rulo-pizza-pogaca.jpg",
+    "mealsId" : "83",
+    "strMeal" : "Rulo Pizza"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://i.pinimg.com/736x/0e/23/f4/0e23f43da97c631f78c7bf69d6ab51f5.jpg",
+    "mealsId" : "84",
+    "strMeal" : "Külahlı Kadayıf Tatlısı"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2020/06/meyveli-kurabiye-cikolatalimutfak.jpg",
+    "mealsId" : "85",
+    "strMeal" : "Meyveli Kurabiye"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://im.haberturk.com/2020/08/14/ver1597383217/2772437_810x458.jpg",
+    "mealsId" : "86",
+    "strMeal" : "Haşhaşlı Çörek"
+  }, {
+    "categoryId" : "0",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2020/09/sirkeli-tuzlu-kurabiye-bayatlamayan-yemekcom.jpg",
+    "mealsId" : "87",
+    "strMeal" : "Tuzlu Kurabiye"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2018/12/nisastali-kek.jpg",
+    "mealsId" : "88",
+    "strMeal" : "Nişastalı Kek"
+  }, {
+    "categoryId" : "2",
+    "image" : "https://mutfaktaki.com/wp-content/uploads/2019/05/havuclu-dereotlu-pogaca.jpg",
+    "mealsId" : "89",
+    "strMeal" : "Havuçlu Poğaça"
+  }, {
+    "categoryId" : "7",
+    "image" : "https://im.haberturk.com/2020/09/07/ver1599453046/2795552_810x458.jpg",
+    "mealsId" : "90",
+    "strMeal" : "Jalapeno Biber Turşusu"
+  }, {
+    "mealsId" : "91",
+    "strMeal" : "Çörekotlu Tuzlu Kurabiye"
+  }, {
+    "categoryId" : "6",
+    "image" : "https://i.ytimg.com/vi/LLL6T7fChGo/maxresdefault.jpg",
+    "mealsId" : "92",
+    "strMeal" : "Patlıcanlı Sos"
+  }, {
+    "categoryId" : "7",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5d7f9f1f0f25440d54dbfe1f.jpg",
+    "mealsId" : "93",
+    "strMeal" : "Yağlı Turşu"
+  }, {
+    "categoryId" : "7",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/04/cabuk-tursu.jpg",
+    "mealsId" : "94",
+    "strMeal" : "Çabuk Turşu"
+  }, {
+    "categoryId" : "7",
+    "image" : "https://im.haberturk.com/2020/09/08/ver1599543425/2796607_810x458.jpg",
+    "mealsId" : "95",
+    "strMeal" : "Yağlı Kapya Biber Turşusu"
+  }, {
+    "categoryId" : "11",
+    "image" : "https://www.tarifbulutu.com/wp-content/uploads/2018/09/arap-asi-corbasi.jpg",
+    "mealsId" : "96",
+    "strMeal" : "Arap Aşı"
+  } ],
+  "recipes" : [ {
+    "categoryId" : "12",
+    "id" : "0",
+    "image" : "https://im.haberturk.com/2020/07/22/ver1595394233/2751434_810x458.jpg",
+    "strMaterials" : "3 adet yumurta,1 su bardağı şeker,2 su bardağı sıvı yağ,2 su bardağı un,1 paket kabartma tozu",
+    "strMeal" : "Elmalı Tatlı",
+    "strRecipe" : "Malzemeleri çırpın sonra 4 orta boy elmayı(sarı elma) soğan gibi doğrayın.1 su bardağı iri kıyılmış ceviz ve 1 tatlı tarçın ekleyin.Çırpılan karışıma bunları ekleyin ve kare bor cama dökün ve pişirin.Üzerine krem şanti ve ceviz ekleyebilirsiniz.Afiyet olsun :)"
+  }, {
+    "categoryId" : "1",
+    "id" : "1",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/04/mozaik-pasta-yemekcom.jpg",
+    "strMaterials" : "1 paket petibör,1 bardak süt,1 yemek kaşığı nescafe,1 paket kremşanti",
+    "strMeal" : "Mozaik Pasta",
+    "strRecipe" : "Malzemeleri çırpın ceviz veya fındık eklenebilir.Üzerine damla çikolata dökün ve bisküvileri parçalayın.Piramit yaparak buzdolabına koyun afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "2",
+    "image" : "https://i20.haber7.net/resize/1300x788//haber/haber7/photos/2019/36/saray_sarmasi_nasil_yapilir_1567670914_0669.jpg",
+    "strMeal" : "Kakaolu Saray Lokumu"
+  }, {
+    "categoryId" : "12",
+    "id" : "3",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/10/sarlot-pasta-tarifi.jpg",
+    "strMaterials" : "2 paket kedi dili bisküvi(şekersiz),2 paket kremşanti,2 paket 1 kg süt,1 fincan kakao,4 adet sütlü çikolata,2 bitter çikolata,6 yemek kaşığı un,2.5 yemek kaşığı şeker",
+    "strMeal" : "Şarlot",
+    "strRecipe" : "2 paket şantiyi sütten 1 bardak ayırıp çırpıyoruz.Buzdolabına koyuyoruz geri kalan malzemeyi kaynatıyoruz ve soğutuyoruz.Sırayla bor cama ıslak kedi dili puding üstüne şantiyi koyuyoruz ve çikolata rendeliyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "4",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2018/03/hashasli-irmik-tatlisi-guncelleme-sunum-1.jpg",
+    "strMaterials" : "3 yumurta,1 su bardağı şeker,1 su bardağı irmik,1 su bardağı haşhaş,1.5 su bardağı un,1 su bardağı sıvı yağ,1 paket kabartma tozu,1 paket vanilya",
+    "strMeal" : "Haşhaşlı Tatlı",
+    "strRecipe" : "Malzemeleri çırpıp tepsiye döküyoruz ve ısıtılmış fırına atıyoruz.Pişme işlemi bittikten sonra üzerine soğuk şerbet döküp kremşanti döküyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "4",
+    "id" : "5",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/04/patates-salatasi-yemekcom.jpg",
+    "strMaterials" : "5 adet patates,2 adet havuç,yarım demet dere otu,1 demet taze soğan,göz kararı salatalık turşusu,tuz,3 yemek kaşığı mayonez ve yoğurt",
+    "strMeal" : "Patates Salatası",
+    "strRecipe" : "Bütün malzemeleri karıştırıp yuvarlak bor cama önce streç koyuyoruz.Sonra karışımı döküyoruz.Dolapta soğutup ters çevirip üzerine süzme yoğurt döküyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "4",
+    "id" : "6",
+    "image" : "https://iasbh.tmgrup.com.tr/edffb6/812/467/0/151/1357/933?u=http://i.tmgrup.com.tr/sfr/2013/12/12/Orjinal/414062599819.jpg",
+    "strMaterials" : "Mısır,Yarım kilogram mantar,1 kilogram közlenmiş kırmızı biber,1 kase yeşil zeytin,1 demet taze soğan,1 demet maydonoz,nar ekşisi,limon,zeytinyağı",
+    "strMeal" : "Mantar Salatası",
+    "strRecipe" : "Mantarları ince ince doğra limonlu suda haşla ve diğer malzemeler ile karıştır afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "7",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2021/02/kartopu-tatlisi-fit.jpg",
+    "strMaterials" : "1 kilogram süt,10 yemek kaşığı irmik,13 yemek kaşığı şeker,2 yemek kaşığı nişasta,1 paket kremşanti,hindistan cevizi",
+    "strMeal" : "Kartopu",
+    "strRecipe" : "Hepsini pişir.Ilık bir hale gelince 1 paket şanti ile çırp.Ellerini ıslatıp yuvarlak yap ve hindistan cevizine bula afiyet olsun :) "
+  }, {
+    "categoryId" : "9",
+    "id" : "8",
+    "image" : "https://www.denenmistarifler.net/wp-content/uploads/2018/03/29401249_873639856149483_435108031357779968_n.jpg",
+    "strMaterials" : "Kek:4 adet yumurta,1 su bardağı şeker,1 su bardağı un,yarım paket kabartma tozu,1 paket vanilya,3 çorba kaşığı kakao,3 çorba kaşığı su.Krema:3 su bardağı süt,1.5 çorba kaşığı un,1 çorba kaşığı nişasta,yarım su bardağı şeker,1 yumurta sarısı,1 paket vanilya",
+    "strMeal" : "İmam Sarığı",
+    "strRecipe" : "Keki 170C'de pişir.Soğuyunca su bardağı ile yuvarlak olarak kes.İki yuvarlağın arasına krema sür.Kenarlarına hindistan çevizi ve kaşık rendelenmiş çikolata dök afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "9",
+    "image" : "https://i.ytimg.com/vi/fhVGRgegMHE/maxresdefault.jpg",
+    "strMaterials" : "3 yumurta,1 bağ pırasa,1 su bardağı sıvı yağ,1 su bardağı süt,1 su bardağı yoğurt,1 paket kabartma tozu,tuz,1.5 su bardağı mısır unu,3 su bardağı un",
+    "strMeal" : "Pırasalı Kek",
+    "strRecipe" : "Pırasaları küçük küçük doğra az yağda kavur.Daha sonra yumurtada çırp üzerine süt,yoğurt,yağ,tuz ve pırasaları ekle.En son mısır unu,un,kabartma tozu ekle ve pişir afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "10",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/10/kalburabasti-yemekcom.jpg",
+    "strMaterials" : "1 yumurta,1 çay bardağı sıvı yağ,1 yemek kaşığı yoğurt,1 çay bardağı ceviz içi,kabartma tozu,vanilya,yeterince un.Şerbeti:2 su bardağı şeker,2 su bardağı su,limon suyu",
+    "strMeal" : "Kalburabastı",
+    "strRecipe" : "Hamuru hazırlayıp pişirip üzerine soğuk şerbet döküyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "11",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5c067495c03c0e20dca6938e.jpg",
+    "strMaterials" : "3 fincan un,1 su bardağı şeker,1 kilogram süt,1 paket kremşanti",
+    "strMeal" : "Kadayıflı Tatlı",
+    "strRecipe" : "Malzemeleri pişirip soğutuyoruz ve şanti ile çırpıyoruz(1 su bardağı süt ile ayrı bir kapta).250 gram kadayıfı dondurucuya koyup çıkarıyoruz ve ufalıyoruz.2 kaşık yağ(tereyağ + margarin) ile kavuruyoruz.2 yemek kaşığı tarçın,5 kaşık şeker ve 1 bardak iri çekilmiş ceviz ile kavuruyoruz borcama döküyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "11",
+    "id" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2015/03/fellah-kofte-yemekcom.jpg",
+    "strMaterials" : "250 gram kıyma,1 su bardağı bulgur,2 yemek kaşığı biber salçası,1 tatlı kaşığı kimyon,sarımsak,tuz",
+    "strMeal" : "Fellah Köftesi",
+    "strRecipe" : "Bulguru kaynar suyla ıslat kabarmasını bekle.Diğer malzemeleri ekle yoğur daha sonra haşla.Üstüne sarımsaklı yoğurt onun üstüne sarımsaklı baharatlı salçalı sos dök afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://sosyallezzet.com/wp-content/uploads/2017/11/guvecte-patatesli-ispanak-sufle-tarifi-800x600.jpg",
+    "strMaterials" : "1 su bardağı un,3 yumurta,500 gr ıspanak,1 su bardağı yoğurt,1 adet soğan,1 çay bardağı sıvı yağ,1 su bardağı beyaz peynir,2 çorba kaşığı kaşar peyniri rendesi,kabartma tozu,tuz",
+    "strMeal" : "Ispanaklı Sufle",
+    "strRecipe" : "Ispanakları ayıklayıp iyice yıkayın.İnce ince doğrayın ve içine un,yumurta,yoğurt ve ince kıyılmış soğanı ilave edin.Sıvı yağ,peynir,tuz ve kabartma tozunu ekleyip karıştırın.Hazırladığınız harcı yağlanmış kaba yayın üzerine yumurta sarısını sürün ve kaşar serpip fırına verin afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "image" : "https://i2.milimaj.com/i/milliyet/75/0x410/5eeb87ed55428122ec7b7466.jpg",
+    "strMaterials" : "3 adet yumurta,2 su bardağı un,1 su bardağı toz şeker,1 su bardağı sıvı yağ,1 su bardağı ceviz içi,1 su bardağı rendelenmiş havuç,1 adet rendelenmiş elma,1 paket vanilya,1 paket kabartma tozu,1 tatlı kaşığı tarçın",
+    "strMeal" : "Havuçlu Kek",
+    "strRecipe" : "Afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/08/elmali-lezzet-toplari-yeni.jpg",
+    "strMaterials" : "60 gram margarin oda sıcaklığında,yarım kahve fincanı toz şeker,1 çay bardağı sıvı yağ,1 paket kabartma tozu,1 çay kaşığı tuz,kabın aldığı kadar un",
+    "strMeal" : "Susamlı Toplar",
+    "strRecipe" : "Malzemeleri hamur yapıp yuvarlak yapıyoruz.Önce yumurta akına daha sonra susama bulayıp fırına sürüyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "16",
+    "image" : "https://iasbh.tmgrup.com.tr/7102f0/812/467/0/933/1475/1781?u=https://isbh.tmgrup.com.tr/sbh/2019/11/19/findikli-sekerpare-1574149526515.jpg",
+    "strMaterials" : "Hamuru:1 yumurta,1 çay bardağı taze yoğurt,1 çay bardağı sıvı yağ,1 su bardağı irmik,1 su bardağı un,kabartma tozu,vanilya.Şerbeti:2.5 su bardağı su,2.5 su bardağı şeker.",
+    "strMeal" : "Şekerpare",
+    "strRecipe" : "Yumuşak hamuru yoğur.Hamuru yuvarlak yapıp üzerine ceviz koy.Daha sonra şerbeti soğutup sıcak hamurun üzerine dökün afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "17",
+    "image" : "http://www.yemektariflerisayfasi.net/wp-content/uploads/2015/04/F%C4%B1nd%C4%B1kl%C4%B1-Ay-%C3%87%C3%B6re%C4%9Fi-Tarifi.jpg",
+    "strMaterials" : "1 paket sana yağ,1.5 su bardağı yoğurt,1.5 su bardağı süt,1 su bardağı sıvı yağ,tuz,maya,kabın aldığı kadar un.",
+    "strMeal" : "Ay Böreği",
+    "strRecipe" : "Sütü,yoğurdu,sıvı yağ,tuzu ve paket mayayı ilave edin.Hamuru yoğurup alabildiğine un koyun.Hamur kabarınca 12'ye bölüp sana yağ ile yağlayıp fırına verin afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "18",
+    "image" : "https://www.adimadimyemektarifi.com/wp-content/uploads/2015/03/kahvaltilik-kolay-krep-tarifi-1024x675.jpg",
+    "strMaterials" : "Bir bardak süt,bir bardak un,bir kaşık sıvı yağ,bir yumurta,biraz tuz",
+    "strMeal" : "Krep",
+    "strRecipe" : "1 su bardağı süt ve 1 su bardağı suyu karıştırma kabına alın. Üzerine bir bardak unu ekledikten sonra çırpıcı yardımıyla karıştırın. Son olarak 1 yemek kaşığı sıvı yağ ile yumurta ve tuzu ilave edin. Pürüzsüz bir kıvama gelene kadar çırpın ardından 5 dakika dinlendirin. Harçtan bir kepçe kadar alıp iyicene kızgınlaşan tavaya dökün, hamuru sallayarak ince bir şekilde tabana yayılmasını sağlayın. Krepleri orta ateşte göz göz olup kızarana kadar pişirin. Hamur bitene kadar işlemi tekrar edin.Afiyet olsun :)"
+  }, {
+    "categoryId" : "6",
+    "id" : "19",
+    "image" : "https://www.sostarifleri.gen.tr/images/salca-sosu.jpg",
+    "strMaterials" : "1 kilo acı biber,2 kutu hazır salça,4 kilo domates,2 su bardağı zeytinyağı,9 baş sarımsak",
+    "strMeal" : "Salça Sos",
+    "strRecipe" : "Domatesi kaynat.Yarıya düşür.Salçaları at ve 1 su bardağı yağı içine dök.Kalan 1 bardağı sarımsak ile kavur ve içine dök.5 dakika daha kaynat ve tuz at.Sıcak sıcak şişelere dök afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "20",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x0/5bfb920667b0a90304355bbf.jpg",
+    "strMaterials" : "1 kg un,3 yemek kaşığı şeker,1 tatlı kaşığı tuz,1 paket maya,1 yumurta(beyazı içine,sarısı üzerine),1 su bardağı sıvıyağ,süt,yoğurt",
+    "strMeal" : "Bursa Açması",
+    "strRecipe" : "Hamuru hazırladıktan sonra üzerine susam ve çörek otur serpip fırına verin afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "21",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/paskalya_coregi-5932ecad-aa93-473b-848c-41fd434f9ccf.jpg",
+    "strMaterials" : "1 paket maya,1 kilogram un,3 yumurta,200 gram tereyağ,1 su bardağı süt,1 su bardağı şeker,mahlep,susam",
+    "strMeal" : "Paskalya Çöreği",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "22",
+    "image" : "https://www.ardaninmutfagi.com/wp-content/uploads/2017/06/elmali-biskuvili-tatli-2.jpg",
+    "strMaterials" : "Tabanı için:400 gram petibör bisküvi,5 elma(kabuklarını soyun ve rendeleyin),1 tatlı kaşığı tarçın,1 çay bardağı şeker,1 çay bardağı iri kıyılmış ceviz.Muhallebisi için:3.5 su bardağı süt,4 yemek kaşığı un(tepeleme),3/4 su bardağı şeker,1 paket vanilya",
+    "strMeal" : "Elmalı Muhallebili Tatlı",
+    "strRecipe" : "Elmaları şeker ile birlikte suyunu çekene kadar pişirin.Bisküvileri irice kıyın ve taban için gereken tüm malzemeyi güzelce karıştırın.Islattığınız cam bir tepsiyle elinizle bastırarak yayın.Elinizi suyla hafif ıslatmak işinizi kolaylaştıracaktır.Muhallebi malzemelerini vanilya hariç karıştırın ve kaynamaya başlayıp koyulaşınca ocaktan alın.Muhallebiye vanilya ekleyerek karıştırın ve bisküvinin üzerine dökün.Muhallebinin üzerine bolca hindistan cevizi rendesi serpin ve tatlıyı buzdolabına koyup servis edin afiyet olsun :)"
+  }, {
+    "categoryId" : "4",
+    "id" : "23",
+    "image" : "https://cdn.ye-mek.net/App_UI/Img/out/650/2016/05/kavrulmus-tel-sehriye-salatasi-resimli-yemek-tarifi(11).jpg",
+    "strMaterials" : "2 su bardağı tel şehriye,1 çay bardak zeytinyağı,1 su bardağı soğuk su,1 adet tavuk göğsü,taze soğan,salatalık turşusu,mısır,dereotu,maydonoz",
+    "strMeal" : "Tel Şehriye Salatası",
+    "strRecipe" : "Zeytinyağıyla şehriyeleri kavur.Üzerine 1 su bardağı suyu dök kapat ve demlenmesini bekle karıştır.Tavuğu haşla ve küçük parçalara ayır.Diğer malzemeleri doğra ve karıştır.En son üzerine isteğe göre 1 yemek kaşığı nar ekşisi dök afiyet olsun :)"
+  }, {
+    "categoryId" : "1",
+    "id" : "24",
+    "image" : "https://www.pratikevyemekleri.com/wp-content/uploads/bfi_thumb/irmikli-lokum-tatlisi-tarifi-1-oe22n53klofdnra2rzntg4f4z1cpvg3eey692eegqw.jpg",
+    "strMaterials" : "4 fincan şeker,5 yumurta,4 fincan un,kabartma tozu,vanilya.İç malzemesi:1 paket kremşanti,biraz süt,hindistan cevizi",
+    "strMeal" : "Lokum Pasta",
+    "strRecipe" : "Keki tepsiye dökmeden altına yağlı kağıt koy ve pişir.Dikdörtgen olarak kes.Her parçayı 2 ye böl arasına kremşanti sür rulo yap.Süte batırıp hindistan cevizine bula afiyet olsun :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "25",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2020/11/corek-otlu-tuzlu-kurabiye-tarifi.jpg",
+    "strMaterials" : "1 çay bardağı zeytinyağı,1 çay bardağı toz şeker,yarım çay bardağı çörekotu,2 yemek kaşığı sirke,1 çay kaşığı tuz,1 yumurta(akı içine,sarısı üzerine),100 gram tereyağ,alabildiği kadar un",
+    "strMeal" : "Çörekotlu Kurabiye",
+    "strRecipe" : "Hepsini yoğur.Pasta kalıplarıyla şekil ver.Çok ince açmayın afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "26",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2018/05/kedi-dili-tatlisi-one-cikan-yeni.jpg",
+    "strMaterials" : "6 su bardağı süt,1.5 fincan un,1 fincan buğday,4.5 fincan şeker,1 yumurta sarısı,vanilya",
+    "strMeal" : "Kedi Dili Tatlı",
+    "strRecipe" : "İyice çırp pişir.Altını kapatmadan önce 50 gram margarin,vanilya at iyice karıştır.Kedi dilini ılık sütle batır.Tepsiye diz.Kremanın yarısını dök.Arasına kakaolu bisküviyi döşeyin kremanın kalan yarısını da kırıp üzerine dök.Üzerine 2 paket meyveli sos pişir ve dök afiyet olsun :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "27",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/12/findikli-kurabiye-yeni-one-cikan.jpg",
+    "strMaterials" : "3 yumurta,1 margarin,kabartma tozu,1 avuç nişasta,biraz ayçicek yağı,1 su bardağı pudra şekeri",
+    "strMeal" : "Fındıklı Kurabiye",
+    "strRecipe" : "Unla beraber yoğurulur.Simit gibi şekil verin fındıkla süsleyip fırına verin afiyet olsun :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "28",
+    "image" : "https://www.tatlimutfak.com/content/images/size/w1920/wordpress/2019/07/479DBEC7-A7F4-48F9-9F62-20E1649D2DBF.jpeg",
+    "strMaterials" : "1 paket margarin,2 yemek kaşığı pudra şekeri,kabartma tozu,1 çay bardağı ceviz içi,aldığı kadar un",
+    "strMeal" : "Tarçınlı Kurabiye",
+    "strRecipe" : "Kurabiyeler fırından çıkınca tarçınlı pudra şekerine bula afiyet olsun :)"
+  }, {
+    "categoryId" : "5",
+    "id" : "29",
+    "image" : "https://iasbh.tmgrup.com.tr/a2e16b/821/464/31/0/730/395?u=https://isbh.tmgrup.com.tr/sbh/2021/08/26/mercimek-koftesi-tarifi-tam-olculu-mercimek-koftesi-tarifi-nasil-yapilir-1629966931776.jpg",
+    "strMaterials" : "2 su bardağı kırmızı mercimek,1.5 su bardağı düğür,maydonoz,3 soğan,3-4 kaşık yağ(margarin),3 kaşık kimyon,3 kaşık karabiber,6 tane taze soğan,1 kaşık salça",
+    "strMeal" : "Mercimekli Köfte",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "30",
+    "image" : "https://cdn.ye-mek.net/App_UI/Img/out/650/2016/09/labneli-tuzlu-kurabiye-resimli-yemek-tarifi(12).jpg",
+    "strMaterials" : "1 kase kaymak,2-3 kaşık yoğurt,1 yumurta(beyazı içine sarısı üzerine),3 kibrit kutusu peynir,1 paket kabartma tozu,tuz,beyaz susam",
+    "strMeal" : "Kaymaklı Tuzlu",
+    "strRecipe" : "Malzemeleri karıştır.Alabildiği kadar un alıp hamur yap,hamur kulak memesi kıvamında olsun.Yuvarlaklar yaparak tepsiye diz.Üzerine yumurta sarısı ve susamı sür fırına ver afiyet olsun :)"
+  }, {
+    "categoryId" : "3",
+    "id" : "31",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2017/01/ev-usulu-pizza-yeni.jpg",
+    "strMaterials" : "1 paket maya,2 bardak süt,yarım bardak sıvı yağ,1 bardak sıcak su,1 tatlı kaşığı şeker,tuz,yumurta içine ",
+    "strMeal" : "Pizza",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "32",
+    "image" : "http://photos1.blogger.com/x/blogger/6211/872/1600/956087/DSC03389.jpg",
+    "strMaterials" : "2 adet yumurta sarısı,1 çay bardağı yoğurt,1 tatlı kaşığı yaş maya,1 çay bardağı ılık su,1 çay bardağı sıvı yağ,1 paket margarin,alabildiğince un,tuz",
+    "strMeal" : "Midye Çöreği",
+    "strRecipe" : "Hamur tepside kabaracak üzerine çörek otu ve susam atın.İç malzemesi:Hamuru 6 parçaya bölüp hamur aç ve rulo yap afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "33",
+    "image" : "https://im.haberturk.com/2020/08/25/ver1598332705/2782627_810x458.jpg",
+    "strMaterials" : "2 bardak süt,1 paket maya,1 çay bardağı sıvı yağ",
+    "strMeal" : "Poğaça",
+    "strRecipe" : "1 bardak ılık suda yaş mayayı erit biraz şeker koy.Malzemeyi hamur yap.Hamuru 5'e böl servis tabağı kadar aç.Yarım paket margarini 5 hamura ayır ve sür tekrar hamurları aç.Her birini 8'e böl malzemeyi içine koy.Sıvı yağa bandır tepsiye diz kabarmasını kabarmasını bekle fırına sür afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "34",
+    "image" : "https://www.pelinchef.com/wp-content/uploads/2011/11/ev-yap%C4%B1m%C4%B1-simit1.jpg",
+    "strMaterials" : "1 bardak un,500 gram margarin,2 çay kaşığı kabartma tozu,yarım çay bardağı sıvı yağ,1 avuç mahlep,1 yemek kaşığı tuz,1 yemek kaşığı toz şeker,1 yumurta,kremşanti",
+    "strMeal" : "Simit",
+    "strRecipe" : "Hamura şekil ver.Yumurta akına batır ve susamla 220 derecede 25 dakika pişir."
+  }, {
+    "categoryId" : "12",
+    "id" : "35",
+    "image" : "https://mutfaktaki.com/wp-content/uploads/2019/11/yalanci-tavuk-gogsu-tarifi-740x740.jpeg",
+    "strMaterials" : "1 paket çifte kavrulmuş bisküvi,1 su bardağı toz şeker,1 su bardağı un,1 litre süt,yarım paket margarin",
+    "strMeal" : "Tavuk Göğüsü",
+    "strRecipe" : "Bisküvleri robottan geçirip tepsiye dök.Şekeri,sütü,unu pişir.İndirmeye yakın margarini at karıştır.Muhallebiyi mikserden geçir.Tepsiyle bisküvilerin üzerine dök afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "36",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/12/hashasli-tatli-corek-tarifi.jpg",
+    "strMaterials" : "2 su bardağı ılık süt,biraz şeker,biraz tuz,1 paket maya,un,haşhaş",
+    "strMeal" : "Haşhaşlı",
+    "strRecipe" : "Hamur yumuşat.Hamuru ikiye kes aç ve altıya böl içine haşhaş sür.3 taneyi üst üste koy ikiye katla fırına ver afiyet olsun :)"
+  }, {
+    "categoryId" : "6",
+    "id" : "37",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/acili-kahvaltilik-sos-c0dd4002-be48-47c6-879e-88b6294cb283.jpg",
+    "strMaterials" : "5 kilogram domates,1 kilogram afyon biberi,1 çay bardağı sirke,1.5 su bardağı zeytinyağı,1.5 kafa sarımsak,tuz",
+    "strMeal" : "Domatesli Biberli Sos",
+    "strRecipe" : "Domastesi rendele,biberi ince ince doğra ve kaynat.İnmesine yakın diğer malzemeleri at sıcağı sıcağına kavanoza koy ve ters kapa afiyet olsun :)"
+  }, {
+    "categoryId" : "7",
+    "id" : "0",
+    "image" : "https://4.bp.blogspot.com/-k5ZBjO3Ux_s/VhwELKoJyyI/AAAAAAAAEiQ/XV685Ze_tFE/s640/20151008_203436.jpg",
+    "strMaterials" : "3 su bardağı sirke,1 su bardağı su,3 yemek kaşığı şeker,3 yemek kaşığı tuz,3 yemek kaşığı sıvıyağ",
+    "strMeal" : "Maraş Biberi Turşusu",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "cagetoryId" : "8",
+    "id" : "39",
+    "image" : "https://iasbh.tmgrup.com.tr/918dfd/752/395/0/57/1497/844?u=https://isbh.tmgrup.com.tr/sbh/2019/08/21/domates-corbasi-tarifi-en-guzel-kremali-domates-corbasi-nasil-yapilir-1566386388767.jpg",
+    "strMaterials" : "4 adet iri domates,4 su bardağı su,1 su bardağı süt,3 çorba kaşığı un,1 çorba kaşığı margarin",
+    "strMeal" : "Domates Çorbası",
+    "strRecipe" : "Un ve yağı kavur ve üzerine salça ekle.Onun üzerine rendelenmiş domatesleri ekle.2-3 dakika kaynat ve üzerine sütü ve suyu ilave et.Sonra mikserden geçir afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "40",
+    "image" : "https://tariflerleyemekler.com/yemek/orgulu-tatli.jpg",
+    "strMaterials" : "1 su bardağı su,1 paket vanilya,1 paket kabartma tozu,1 fiske tuz,yarım su bardağı tereyağ,1 tatlı kaşığı sirke.Şerbeti:4 su bardağı şeker,4 su bardağı su",
+    "strMeal" : "Örgülü Tatlı",
+    "strRecipe" : "Güncellenecek"
+  }, {
+    "categoryId" : "12",
+    "id" : "41",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/05/tarak-tatlisi-yeni.jpg",
+    "strMaterials" : "1 çay bardağı sıvıyağ,1 çay bardağı yoğurt,1 çay bardağı irmik,1 çay bardağı hindistan cevizi,2 yumurta (birinin sarısını ayır üzeri için),kabartma tozu,vanilya,125 gram tereyağ,un.Şerbeti:4 bardak şeker,4.5 bardak su",
+    "strMeal" : "Tarak Tatlısı",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "8",
+    "id" : "42",
+    "image" : "https://blog.nerminhanim.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-05-at-21.04.06-1024x1024.jpeg",
+    "strMaterials" : "Taze brokoli,1 kaşık yağ,2 kaşık un,2 bardak süt,beşamel sos,pul biber,limon,tavuk suyu",
+    "strMeal" : "Brokoli Çorbası",
+    "strRecipe" : "Brokoliyi haşla içine biraz tavuk suyu koy.Tavada bir kaşık yağ ile 2 kaşık un kavur.İçine 2 bardak süt koy.Haşlanan brokoliye beşamel sosu koy ve karıştır(Önce brokoliyi rondo yap sonra sosu koy).Üzerine yağ ve pul biber ekleyip limon sık afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "43",
+    "image" : "https://www.basittatlitarifleri.com/wp-content/uploads/2017/08/bulbul-konagi-tatlisi.jpg",
+    "strMaterials" : "1 tane yumurta,1 çay bardağı sıvı yağ,1 çorba kaşığı sirke,3 çorba kaşığı yoğurt,1 paket margarin,1 paket kabartma toz,ceviz.Şerbeti:5 su bardağı şeker,5 su bardağı su",
+    "strMeal" : "Bülbül Konağı",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "44",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2021/02/lokumlu-kurabiye-tarifi.jpg",
+    "strMaterials" : "1 paket kremşanti,1 paket margarin,1 çay bardağı sıvı yağ,1 paket kabartma tozu,un",
+    "strMeal" : "Lokumlu Kurabiye",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "45",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/portakalli_kurabiye-a94e3511-8ed9-4279-9f7c-5c577bf10a58.jpg",
+    "strMaterials" : "1 paket margarin,1 su bardağı sıvı yağ,1.5 su bardağı toz şeker,2 yumurta sarısı,2 portakal rendesi ve suyu,kabartma tuzu,un",
+    "strMeal" : "Portakallı Kurabiye",
+    "strRecipe" : "Şekil verilip önce yumurta akına sonra cevize batırılır önceden ısıtılmış fırında pişirilir afiyet olsun :)"
+  }, {
+    "id" : "46",
+    "strMeal" : "Çörek otlu Kurabiye"
+  }, {
+    "categoryId" : "0",
+    "id" : "47",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/cayli_kurabiye-f4ea80a9-cbf7-426d-9dd7-72eb8fc9c1da.jpg",
+    "strMaterials" : "1 su bardağı sıvı yağ,1 su bardağı pudra şekeri,1 paket margarin,1 yemek kaşığı nescafe,1 yemek kaşığı kuru çay,1 yumurta(sarısı içine beyazı üzerine),un,ceviz",
+    "strMeal" : "Çaylı Kurabiye",
+    "strRecipe" : "Margarini eritip üzerine sıvı yağı dök.Bütün malzemeyi dök ve aldığı kadar un ekle.Hamuru yap ve yuvarlak şekli ver.Yumurtanın beyazına batır sonra cevize batır fırına sür afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "48",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2021/03/havuclu-cevizli-tarcinli-kek-3-tarifi-son.jpg",
+    "strMaterials" : "5 tane yumurtma,2 su bardağı un,1.5 su bardağı toz şeker,130 gram margarin,1 paket kabartma tozu,1 kaşık tarçın,ceviz",
+    "strMeal" : "Tarçınlı Kek",
+    "strRecipe" : "Yumurta ve şekeri 5 dakika çırp.Un,yağ ve kabartma tozu elde yoğur karışıma kat.1 kaşık tarçın ve ceviz ekle afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "49",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2014/06/irmik-tatlisi-yeni.jpg",
+    "strMaterials" : "1 su bardak sıvı yağ,1 su bardağı yoğurt,1 su bardağı süt,1 su bardağı ceviz,2 su bardağı irmik,1 su bardağı un,1 paket kabartma tozu,1 paket vanilya.Şerbeti:3.5 bardak toz şeker,3.5 bardak su",
+    "strMeal" : "İrmik Tatlısı",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "1",
+    "id" : "50",
+    "image" : "http://www.pastatarifleri.name/wp-content/uploads/kulahli-pasta.jpg",
+    "strMaterials" : "2 yumurta,1 fincan şeker,1 fincan sıvı yağ,1 paket kabartma tozu,un.Krema:1 litre süt,4 kaşık şeker,4 kaşık un,2 kaşık nişasta,1 paket vanilya,1 yumurta,ceviz.",
+    "strMeal" : "Külahlı Pasta",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "5",
+    "id" : "51",
+    "image" : "http://www.yersofrasi.org/wp-content/uploads/2020/03/Mercimekli_icliKofte-2-819x1024.jpg",
+    "strMaterials" : "4 bardak köftelik bulgur,1 bardak irmik,100 gram tavuk kıyması,1 yumurta,3 kaşık un.İç harcı:Yeşil mercimek,kuru soğan,karabiber,pul biber,maydonoz,tuz.",
+    "strMeal" : "Mercimekli İçli Köfte",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "52",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/gazete-baklavasi-f02af2c2-d334-4934-bd5f-f4c09b365812.jpg",
+    "strMaterials" : "1 çay bardağı ılık su,3 bardak un,3 yumurta,1 çay bardağı sıvı yağ,1 çay bardağı yoğurt,1 kaşık sirke,1 paket kabartma tozu,1 fiske tuz.Şerbeti:4 bardak su,3 bardak şeker.",
+    "strMeal" : "Gazete Baklavası",
+    "strRecipe" : "Hamuru 18 beze yap oklava ile gazeteye aç.Rulo yap tepsiye keserek diz içi için 1 su bardağı ceviz,1 su bardağı sıvı yağ.50 gram tereyağı kızdır üzerine dök.180 derecede pembeleşinceye kadar pişir afiyet olsun :)"
+  }, {
+    "categoryId" : "10",
+    "id" : "53",
+    "image" : "https://www.ardaninmutfagi.com/wp-content/uploads/2018/04/enginarli-pilav-2.jpg",
+    "strMaterials" : "9 adet Enginar,3 su bardağı pirinç,1 bağ taze soğan,1 bağ dereotu,1 adet taze soğan,3 adet limon,1 çay bardağı zeytinyağı,tuz,1 tatlı kaşığı toz şeker",
+    "strMeal" : "Enginarlı Pilav",
+    "strRecipe" : "Enginarları temizle limonlu suya at suyla kaynat ve o suyu pilavda kullan.Tencereye yağı koy taze soğanları ve kuru soğanı kavur.Üzerine pirinç koy kavur.Haşlayıp doğradığın enginarları kavurduğun malzemenin üzerine koy.Enginarları haşladığın suyu dök sonra şekeri ve tuzu serp.Piştikten sonra dereotu serp karıştır afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "54",
+    "image" : "https://i.lezzet.com.tr/images-xxlarge-recipe/gazete-baklavasi-f02af2c2-d334-4934-bd5f-f4c09b365812.jpg",
+    "strMaterials" : "Bezeler için:2 adet yumurta,1 çay bardağı toz şeker,3 tatlı kaşığı.Hamuru için:1 adet yumurta,1 çay bardağı toz şeker,1 çay bardağı zeytinyağı,1 su bardağı irmik,1 su bardağı un,1 tutam ısırgan otu,1 paket vanilya,1 paket kabartma tozu,1 çay bardağı yoğurt.Şerbeti:2 su bardağı su,2 su bardağı şeker.",
+    "strMeal" : "Isırgan Bezeli Tatlı",
+    "strRecipe" : "2 adet yumurtanın beyazını iyice çırp sonra şekeri çırp sonra şekeri çırp.Isırgan tohumunu koy çırp bezeleri yap pişir(yağlı kağıt üzerinde).Şerbeti kaynatmadan karıştır sıcak hamurun üzerine dök.Hamuru sıkma kalıpla çiçek şekline getir pişir.Şerbetlendikten sonra üzerlerine bezeleri koy servis yap afiyet olsun :)"
+  }, {
+    "categoryId" : "1",
+    "id" : "55",
+    "image" : "https://im.haberturk.com/2020/08/24/ver1598243924/2781597_810x458.jpg",
+    "strMaterials" : "4 yumurta,1 su bardağı şeker,2 su bardağı un,1 kabartma tozu.Kreması:Yarım kilo süt,2 yumurta,un,şeker,vanilya",
+    "strMeal" : "Rulo Pasta",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "56",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/10/kalburabasti-yemekcom.jpg",
+    "strMeal" : "Kalburabastı"
+  }, {
+    "categoryId" : "12",
+    "id" : "57",
+    "image" : "https://im.haberturk.com/2020/09/16/ver1600235092/2804806_810x458.jpg",
+    "strMaterials" : "4 yumurta,2 su bardağı şeker,2 su bardağı yoğurt,2 su bardağı irmik,kabartma tozu.Şerbeti:5 su bardağı şeker,5 su bardağı su",
+    "strMeal" : "Şambali",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "58",
+    "image" : "https://www.hamarat.org/images/Ispanakli-Pogaca-71.png",
+    "strMaterials" : "1 paket maya,3 yemek kaşığı toz şeker,2.5 su bardağı ılık süt,2 yumurta(birinin sarısını ayır),1 tutam tuz,1 su bardağı tuz,un,2 kaşık tereyağı.İç malzemesi:1 kilogram ıspanak,2 kuru soğan,pulbiber,karabiber,tuz.",
+    "strMeal" : "Ispanaklı Poğaça",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "59",
+    "image" : "https://i2.milimaj.com/i/milliyet/75/0x410/5faa756555427e12b48b9108.jpg",
+    "strMaterials" : "3 yumurta,2 su bardağı un,1.5 su bardağı şeker,yarım su bardağı sıvıyağ,kabartma tozu,vanilya,kremşanti,250 gram ıspanak",
+    "strMeal" : "Ispanaklı Kek",
+    "strRecipe" : "Ispanakları haşla ve rondodan geçir.Diğer taraftan malzemelerin hepsini mikserle çırp.Ispanağın içine koy.Kek piştikten sonra kenarlarını rondodan çek.Kremşantiyi kekin arasına ve üstüne sür çekilen kenarları üzerine serp afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "60",
+    "image" : "https://www.kek.gen.tr/images/cup-kek.JPG",
+    "strMaterials" : "2 yumurta,4 fincan un,4 fincan şeker,2 fincan yoğurt,2 fincan sıvıyağ,kabartma tozu,vanilya,puding",
+    "strMeal" : "Kağıtlı Kek",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "61",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/05/gul-tatlisi.jpg",
+    "strMaterials" : "2 çay bardağı irmik,2 çay bardağı sıvı yağ,2 çay bardağı sana yağ,2 çay bardağı yoğurt,1 adet yumurta,kabartma tozu,vanilya,un.Şurubu:5 bardak su,5 bardak şeker.",
+    "strMeal" : "Gül Tatlısı",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "62",
+    "image" : "https://im.haberturk.com/2020/07/22/ver1595394233/2751434_810x458.jpg",
+    "strMaterials" : "1 su bardağı yoğurt,2 su bardağı pudra şekeri,1.5 su bardağı sıvı yağ ve margarin karışık,1 paket vanilya,1 paket kabartma tozu,ceviz,tarçın.",
+    "strMeal" : "Elmalı Kurabiye",
+    "strRecipe" : "Elma ve şekeri pişir üzerine ceviz ve tarçını at.Hamuru sigara böreği gibi sar üzerine piştikten sonra pudra şekeri dök afiyet olsun :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "63",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5f5a40f4c9de3d2e7049349f.jpg",
+    "strMaterials" : "1 yumurta,3 kaşık yoğurt,küçük margarinin yarısı,1 bardak toz şeker,kabartma tozu.",
+    "strMeal" : "Perişan Kurabiyesi",
+    "strRecipe" : "Yoğurt ve yumurta çırpılır.Yağ ve şeker ayrı yerde elle karıştırılır.Daha sonra diğer malzemeler karıştırılır.Hamur kulak memesi yumuşaklığında küçük hamurlar yapılır üzerine ceviz dökülür afiyet olsun :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "64",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2019/11/hindistan-cevizli-kurabiye-banu.jpg",
+    "strMaterials" : "1 paket sana yağ,yarım çay bardağı sıvı yağ,2 çay bardağı pudra şekeri,1 yumurta akını üzerine sarısını içine,4.5 su bardağı un,kabartma tozu.",
+    "strMeal" : "Hindistan Cevizli Kurabiye",
+    "strRecipe" : "Hepsini yoğur.Hamuru yuvarlak hale getir önce yumurtanın akına sonra hindistan cevizine batır ve pişir afiyet olsun :) "
+  }, {
+    "categoryId" : "12",
+    "id" : "65",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5d2329c4d3806c1b0c18eacd.jpg",
+    "strMaterials" : "1 portakal suyu,3 kaşık pudra şekeri,1 paket margarin,yarım fincan sıvı yağ,un,vanilya,kabartma tozu.",
+    "strMeal" : "Tırtıklı Kurabiye",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "66",
+    "image" : "https://i2.milimaj.com/i/milliyet/75/0x410/5c8ce4fc07291c1d74005f4d.jpg",
+    "strMaterials" : "4 yumurta,2 su bardağı şeker,1 su bardağı süt,1 su bardağı sıvı yağ,2 yemek kaşığı kakao,3 su bardağı un,1 paket vanilya,1 paket kabartma tozu.",
+    "strMeal" : "Islak Kek",
+    "strRecipe" : "Şeker,süt,yağ ve kakao karıştırılır.Bu karışımdan 1 su bardağı ayrılır.Diğer malzemeler karıştırılıp tepsiye dökülüp pişirilir.Piştikten sonra kek sıcakken bıçakla bir kaç yerinden kesilir.Ayrılan malzeme üzerine dökülür ve 175 derece de 45 dakika pişirilir afiyet olsun :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "67",
+    "image" : "https://filizinmutfagi.files.wordpress.com/2009/09/tatlisko3.jpg",
+    "strMaterials" : "1 çay bardağı toz şeker,1 çay bardağı un,1 çay bardağı sıvı yağ,6 çorba kaşığı irmik,5 yumurta,1 paket kabartma tozu,dövülmüş antep fıstığı.Şerbeti:3 su bardağı toz şeker,3 su bardağı su,Yarım limonun suyu.",
+    "strMeal" : "Yeşil Yayla Tatlısı",
+    "strRecipe" : "Yumurtaların sarılarını ayır.Aklarının içerisine bir tutam tuz ile birlikte mikserle çırpılıp.Kar rengine gelene kadar çırpın.Toz şekeri yumurta ile karıştırıp unu,irmik ve sıvı yağı ilave edin.180 derece fırında 25 dakika pişirip üzerine soğuk şerbet dökün afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "68",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2014/08/incirli-kek-tarifi-yepyeni.jpg",
+    "strMaterials" : "2 su bardağı un,2 su bardağı şeker,1 su bardağı ceviz,10 kuru incir,1 yumurta,kabartma tozu,2 bardak kaynar su.",
+    "strMeal" : "İncirli Kek",
+    "strRecipe" : "İncirleri doğra ve iki bardak kaynar suyu incirlerin üzerine dök ve biraz bekle.Diğer malzemeleri suyun içine koy mikserle iyice çırp ve yağlanmış tepsiye dök.Arasını kes ve kremşanti dök.Üzerine bisküvi kırıntıları dök afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "69",
+    "image" : "https://www.hamarat.org/images/Peynirli-Kek-13.jpg",
+    "strMaterials" : "1 su bardağı mısır unu,beyaz un,1 yumurta,1 su bardağı sıvı yağ,1 tatlı kaşığı tuz,kabartma tozu,peynir,maydonoz,1.5 su bardağı yoğurt.",
+    "strMeal" : "Peynirli Kek",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "70",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/07/yas-pasta-tarifi-one-cikan.jpg",
+    "strMaterials" : "4 yumurta,3 fincan şeker,4 fincan un,1 fincan su,1 tatlı kaşığı kakao,1 kabartma tozu,1 paket vanilya.",
+    "strMeal" : "Yaş pasta",
+    "strRecipe" : "Pasta piştikten sonra iki'ye kes bir su bardağı şerbet içine bir çay kaşığı nescafe koy ve pastanın üzerine serp afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "71",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2018/03/mini-kostebek-pasta-tarifi.jpg",
+    "strMaterials" : "3 yumurta,3 fincan şeker,3.5 fincan un,1 fincan süt,1 fincan sıvı yağ,2 kaşık kakao,kabartma tozu.Kreması:2 su bardağı süt,2 fincan un,5-6 kaşık şeker,vanilya,margarin,fındık büyüklüğünde damla sakızı.",
+    "strMeal" : "Köstebek Pasta",
+    "strRecipe" : "Un ve margarini kavur sonra sütü koy arkasına şekeri ilave et.Vanilya ve damla sakızını ilave et.Kaynamaya bırak soğuduktan sonra 1 paket kremşanti ilave et ve çırp afiyet olsun :)"
+  }, {
+    "categoryId" : "3",
+    "id" : "72",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2019/02/patates-tostu-yemekcom.jpg",
+    "strMaterials" : "3 adet orta boy patates(rendesi),1 su bardağı kaşar peyniri rendesi,1 parça doğranmış sucuk,1 çorba kaşığı tereyağ,1 çay kaşığı tuz,1 adet yumurta,yarım çay kaşığı pul biber, yarım çay bardağı karabiber. ",
+    "strMeal" : "Patatesli Tost",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "11",
+    "id" : "73",
+    "image" : "https://cdn.yemek.com/mnresize/1250/833/uploads/2020/12/baharatli-icli-kofte-tarifi.jpg",
+    "strMaterials" : "İç harcı:400 gram yağlı kuzu kıyma, 4 adet kuru soğan, 1 su bardağı ceviz, yarım su bardağı sıvı yağ, bir tutam maydonoz. Dış harcı:300 gram dana kıyma, 2 su bardağı ince bulgur, 1 tatlı kaşığı tuz, 1 tatlı kaşığı pul biber. Sosu için:2 yemek kaşığı domates salçası, 1 yemek kaşığı tereyağı, su.",
+    "strMeal" : "İçli Köfte",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "74",
+    "image" : "https://img-s1.onedio.com/id-614aed51dbe0f00750d6bb1b/rev-0/w-620/f-jpg/s-58b3d51b956b3ddbff60750bfaadd3917b5027f4.jpg",
+    "strMaterials" : "4 yumurta, 1 su bardağı su, un, tuz, peynir, maydonoz.",
+    "strMeal" : "Kolay Su Böreği",
+    "strRecipe" : "Hamuru bezeler haline getir. Aralarını aç ve tereyağı sür. Tam ortasına az tuzlu peynir ve maydonoz koy. Üzerine kalan bezeleri ser daha sonra kes aralarını biraz daha kes sonra fırına sür biraz pembeleşince fırından çıkart. 2 şişe maden suyu ve 1 bardak suyu karıştır. Tepsinin üzerine dök tekrar pişir afiyet olsun :)"
+  }, {
+    "categoryId" : "6",
+    "id" : "75",
+    "image" : "https://www.gurmetarif.com/wp-content/uploads/2021/05/ev-yapimi-ketcap-tarifi.jpg",
+    "strMaterials" : "1 kilogram domastes, 4 kırmızı biber, 1 adet soğan, 1 diş sarımsak, acı pul biber veya kurumuş acı biber, 1 yemek kaşığı ev salçası, 1 yemek kaşığı şeker, 1 tatlı kaşığı tuz, 2 yemek kaşığı elma sirkesi, 4 diş karanfil, 4 yemek kaşığı zeytinyağı, 1 yemek kaşığı mısır nişastası.",
+    "strMeal" : "Doğal Ketçap",
+    "strRecipe" : "Hepsini parçala kaynat sonra mikserden geçir. 2 kaşık sirke koy ve karıştır afiyet olsun :)"
+  }, {
+    "\"id\"" : 76,
+    "categoryId" : "11",
+    "image" : "https://www.kulturportali.gov.tr/repoKulturPortali/large/25022013/13da4259-5d84-4ddf-b39e-d483cdbcd91b.jpg",
+    "strMaterials" : "1.5 su bardağı bulgur, yarım demet dereotu, yarım demet maydonoz, 1 tutam ıspanak, 300 gram yoğurt, 1 su bardağı un, 1 tutam tuz. Üzeri için:2 yemek kaşığı tereyağı, 1 tatlı kaşığı pul biber",
+    "strMeal" : "Katık Aşı",
+    "strRecipe" : "Suyun içine bulguru at kaynasın. İçerisine yeşillikleri doğra. Suyla yoğurt ve unu biraz ez. Sonra kesilmesin diye kaynayan sudan yoğurdu ekle içerisine dök kaynadıktan sonra üzerine tuzu ve sosunu dök afiyet olsun :)"
+  }, {
+    "categoryId" : "11",
+    "id" : "77",
+    "image" : "https://1.bp.blogspot.com/-sDgPKg4pbS4/VVMedBMez3I/AAAAAAAABSY/oq94Rfwj_9k/s1600/tas-kofte.jpg",
+    "strMaterials" : "1 adet yumurta, 1.5 kilogram dana eti, 3 adet patates, 2 adet kuru soğan, 1 çay bardağı haşlanmış nohut, 1 yemek kaşığı domates salçası, 1 su bardağı pilavlık bulgur, 1 adet köy biber, 1 adet domates, 1 tatlı kaşığı zerdeçal, kuru kekik, tuz, yarım çay bardağı sıvı yağ. ",
+    "strMeal" : "Taş Köfte",
+    "strRecipe" : "Soğanı kavur üzerine salçaları koy ve kavur daha sonra suyunu dök kaynasın. Etleri haşla ortasına soğanı koy döv. Haşlanmış kabukları soyulmuş nohudu koy ve döv daha sonra bulguru koy ve köfteyi yoğur. Ceviz şeklinden biraz daha büyük yuvarlaklar yap sonra kaynayan suya yuvarlakları tek tek koy. Daha sonra patatesleri biraz kaynattıktan sonra koy. Biber ve domatesi üzerine doğra ve pişir afiyet olsun :) "
+  }, {
+    "categoryId" : "12",
+    "id" : "78",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5f3d17e0c03c0e1244adbf30.jpg",
+    "strMaterials" : "4 yumurta, 1 su bardağı şeker, 1 su bardağı hindistan cevizi, 1 su bardağı galeta unu, 2 yemek kaşığı un, 2 paket kabartma tozu. Şerbeti:1 su bardağı şeker, 2 su bardağı su(Şerbeti soğuk keki sıcak). Kreması:1 kilo süt, 3 yemek kaşığı şeker, 2 yemek kaşığı nişasta, 2 yemek kaşığı un.",
+    "strMeal" : "Rum tatlısı",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "8",
+    "id" : "79",
+    "image" : "https://lezzetler.com/images/yuklenen/eristeli-nohutlu-pinar-misket-kofteli-corba-90884.jpg",
+    "strMaterials" : "1 çay bardağı erişte, 1 çay bardağı haşlanmış nohut, 1 kase yoğurt, 1 yumurta, yarım çay bardağı un. Köftesi için:250 gram dana kıyma, 1 yumurta, yarım su bardağı un, tuz. Üzeri için:1 yemek kaşığı tereyağı, kırmızı toz biber.",
+    "strMeal" : "Misket Çorbası",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "11",
+    "id" : "80",
+    "image" : "https://turkascihaberleri.com/Resimler/cacikli-arap-koftesi-tarifi-022.jpg",
+    "strMaterials" : "3 su bardağı köftelik bulgur, 3 yemek kaşığı un, pul biber, karabiber, kuru nane, tuz. Sosu için:1 su bardağı yeşil mercimek haşlanmış, 2 adet kuru soğan, 1 yemek kaşığı biber salçası, 1 yemek kaşığı domates salçası, 1 su bardağı zeytinyağı, kimyon, pul biber, karabiber, tuz, sarımsaklı yoğurt.",
+    "strMeal" : "Arap Köftesi",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "81",
+    "image" : "https://i.ytimg.com/vi/kUAQ1RVSf8I/maxresdefault.jpg",
+    "strMaterials" : "1 adet yumurta, 250 gram tereyağı, 1 çay bardağı sıvı yağ, 1 çay bardağı yoğurt, 1 tatlı kaşığı tuz, 1 paket kabartma tozu, un. İçi için: Yağsız peynir. Üzeri için: Galeta unu. Sapı için: Spagetti makarna. Yaprağı için: Taze nane.",
+    "strMeal" : "Peynirli Armut Kurabiye",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "82",
+    "image" : "https://www.mutfakgunlugu.com/wp-content/uploads/2013/06/medovnik1.jpg",
+    "strMaterials" : "1 paket margarin, yarım çay bardağı sıvı yağ, 1 su bardağı pudra şekeri, 1 adet yumurta akı, 1 paket vanilya, 1 paket kabartma tozu, 1 yemek kaşığı mavi haşhaş, un, sarı renkli gıda boyası.",
+    "strMeal" : "Zambak Çiceği Kurabiye",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "3",
+    "id" : "83",
+    "image" : "https://www.nefislezzetim.com/wp-content/uploads/2020/12/rulo-pizza-pogaca.jpg",
+    "strMaterials" : "Hamuru için: 1 su bardağı ılık süt, yarım su bardağı su, yarım çay bardağı sıvı yağ, yarım paket yaş maya, 1 tatlı kaşığı şeker, tuz, un, kaşar peyniri, domates, biber, sucuk, zeytin. Sos için:1 yemek kaşığı salça, 1 diş sarımsak, kekik, ketçap, tuz, karabiber",
+    "strMeal" : "Rulo Pizza",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "12",
+    "id" : "84",
+    "image" : "https://i.pinimg.com/736x/0e/23/f4/0e23f43da97c631f78c7bf69d6ab51f5.jpg",
+    "strMaterials" : "300 gram tel kadayıf, bulamak için 2 yumurta. İçi için: 1 çay bardağı iri kıyılmış ceviz, kaymak. Şerbeti için: 2 su bardağı şeker, 2 su bardağı su, 1 dilim limon.",
+    "strMeal" : "Külahlı Kadayıf Tatlısı",
+    "strRecipe" : "Kadayıfları külahlara sar ve onları da yumurtayla sar sonra kızgın yağda kızart. Soğuk şerbete hepsini külah tenekesiyle at sonra içinden külahları çıkar ve içerisini ceviz ile doldur ve üzerine kaymak sık afiyet olsun :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "85",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2020/06/meyveli-kurabiye-cikolatalimutfak.jpg",
+    "strMaterials" : "1 paket margarin, 2 yemek kaşığı pudra şekeri, 1 çay bardağı yoğurt, 1 yemek kaşığı sirke, 1 çay bardağı sıvı yağ, 1 paket kabartma tozu, 1 yumurta sarısı içine(beyazı üzerine). İçi için: 2 adet incir, 4 adet kayısı, 1 elma(küçük küçük doğra)",
+    "strMeal" : "Meyveli Kurabiye",
+    "strRecipe" : "Malzemelerden yumuşak hamur yap ve yuvarlak şekli ver. İçine hazırladığın iç malzemeleri koy, yumurta akına batır ve cevize batır pişir. Fırından çıkarınca sıcak haldeyken üzerine pekmez dök afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "86",
+    "image" : "https://im.haberturk.com/2020/08/14/ver1597383217/2772437_810x458.jpg",
+    "strMaterials" : "1 paket yaş maya, 1 su bardağı ılık süt, 1 su bardağı ılık su, 1 çay bardağı sıvı yağ, 3 yemek kaşığı tuz, 4.5 su bardağı un. Harcı:3 yemek kaşığı haşhaş, 1 çay bardağı ceviz, 1 çay bardağı sıvı yağ. Üzeri için:1 yumurta sarısı, 1 tatlı kaşığı pudra şekeri.",
+    "strMeal" : "Haşhaşlı Çörek",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "0",
+    "id" : "87",
+    "image" : "https://cdn.yemek.com/mncrop/940/625/uploads/2020/09/sirkeli-tuzlu-kurabiye-bayatlamayan-yemekcom.jpg",
+    "strMaterials" : "125 gram yumuşamış tereyağı, 1 çay bardağı sıvı yağ, 2 yumurta sarısı(biri üzerine), 2 yemek kaşığı sirke, 1 tatlı kaşığı mahlep, 1 tatlı kaşığı tuz, 1 yemek kaşığı şeker, 1 kabartma tozu, 3.5 su bardağı un.",
+    "strMeal" : "Tuzlu Kurabiye",
+    "strRecipe" : "Tüm malzemeleri yumuşak bir hamur yoğurun ceviz büyüklüğünde parçalar alıp uzun şeritler yapıp iki ucunu dolayıp şekil verin ve tepsiye dizin üzerine yumurta sarısı sürüp 180 derecede pişir afiyet olsun :)"
+  }, {
+    "categoryId" : "9",
+    "id" : "88",
+    "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2018/12/nisastali-kek.jpg",
+    "strMaterials" : "1 su bardağı şeker, 1 su bardağı sıvı yağ, 2 su bardağı nişasta, 1 paket vanilya, 1 paket kabartma tozu, 4 tane yumurta.",
+    "strMeal" : "Nişastalı Kek",
+    "strRecipe" : "Yumurta ve şekeri mikserle ve köpük olana kadar 5 dakika çırp sıvı yağı ekleyip yavaşça karıştır. Kabartma tozu, vanilyayı ve nişastayı koyup tekrar yavaş yavaş karıştırıyoruz. 26 cm kalıbın altına yağlı kağıt seriyoruz. Kalıbın kenarlarına tereyağı sürüyoruz ki kekimizin kenarları kızarsın ve 170 derece fırında pişiriyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "2",
+    "id" : "89",
+    "image" : "https://mutfaktaki.com/wp-content/uploads/2019/05/havuclu-dereotlu-pogaca.jpg",
+    "strMaterials" : "1 su bardağı süt, 1 su bardağı ılık su, yarım su bardağı ayçicek yağı, 2 yemek kaşığı tuz, 3 yemek kaşığı şeker, un. Harcı için:1 tane rendelenmiş havuç, 1 kase peynir, 8 tane doğranmış yeşil zeytin, 2 yemek kaşığı sıvı yağ.",
+    "strMeal" : "Havuçlu Poğaça",
+    "strRecipe" : "Yumuşak bir hamur hazırlanıp üzerini streçledikten sonra bekliyoruz. Mayalanan hamuru bezeler haline getirip üzerine malzemeleri koyuyoruz(pizza gibi su bardağıyla bezelerin üzerine bastırıyoruz.) afiyet olsun :)"
+  }, {
+    "categoryId" : "7",
+    "id" : "90",
+    "image" : "https://im.haberturk.com/2020/09/07/ver1599453046/2795552_810x458.jpg",
+    "strMaterials" : "1 çay bardağı üzüm sirkesi, 2 diş sarımsak, 1.5 tatlı kaşığı tuz, 6 tane nohut, 1 tatlı kaşığı toz şeker, orta boy kavanoz..",
+    "strMeal" : "Jalapeno Biber Turşusu",
+    "strRecipe" : "Malzemeleri kavanoz içerisine koyuyoruz ve üzerine de kaynar su ekliyoruz afiyet olsun :)"
+  }, {
+    "id" : "91",
+    "strMeal" : "Çörekotlu Tuzlu Kurabiye"
+  }, {
+    "categoryId" : "6",
+    "id" : "92",
+    "image" : "https://i.ytimg.com/vi/LLL6T7fChGo/maxresdefault.jpg",
+    "strMaterials" : "3 kilogram kırmızı biber, 2 kilogram domates, 1 kilogram patlıcan, 1.5 yemek kaşığı toz şeker, 1 çay bardağı sıvı yağ, 6 diş sarımsak, 5 yemek kaşığı tuz.",
+    "strMeal" : "Patlıcanlı Sos",
+    "strRecipe" : "Altına biraz domates ortasına biber üstüne tekrar domates bunları pişireceğiz. Patlıcanı közleyip içine atıyoruz. Diğer malzemeleri de pişirip içine atıyoruz ve renderdan geçiriyoruz. Sıcak olan malzemeyi şişelere koyup kapatıyoruz afiyet olsun :)"
+  }, {
+    "categoryId" : "7",
+    "id" : "93",
+    "image" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5d7f9f1f0f25440d54dbfe1f.jpg",
+    "strMaterials" : "1 kiloluk şişe için; 1 tatlı kaşığı tuz, 1 çay kaşığı şeker, yarım çay bardağı sirke, yarım çay bardağı su, sarımsak.",
+    "strMeal" : "Yağlı Turşu",
+    "strRecipe" : "Güncellenecek :)"
+  }, {
+    "categoryId" : "7",
+    "id" : "94",
+    "image" : "https://www.or6.net/wp-content/uploads/2021/10/arapasi-corbasi-nasil-yapilir-orjinal-arapasi-corbasi-malzemeleri-yapilisi-hie7kOfg.jpg",
+    "strMaterials" : "Yarım kilo kıl biberi, 2 adet domates, 1 çay bardağı sirke, 1 çay bardağı su, 1 çay bardağı sıvı yağ, 1 tatlı kaşığı tuz, 1 tatlı kaşığı şeker, 1 tatlı kaşığı toz biber, 10 adet sarımsak, maydanoz, isteğe göre nane.",
+    "strMeal" : "Çabuk Turşu",
+    "strRecipe" : "Sosu kaynat içerisine doğradığın biberleri koy rengi değişene kadar pişir sonra sarımsakları at sonra domatesi ekle kaynasın en son maydanozu doğra koy altını söndür sıcak sıcak şişele bu ölçü yarım kiloluk şişe için afiyet olsun :)"
+  }, {
+    "categoryId" : "7",
+    "id" : "95",
+    "image" : "https://im.haberturk.com/2020/09/08/ver1599543425/2796607_810x458.jpg",
+    "strMaterials" : "1 kilogram kapya biberi, 1 su bardağı sirke, 1 su bardağı zeytin yağı, 1 dolu yemek kaşığı kaya tuzu, 1 baş sarımsak, maydanoz.",
+    "strMeal" : "Yağlı Kapya Biber Turşusu",
+    "strRecipe" : "Biberleri yıkayıp tohumlarını ayıklayalım. Biraz iri şekilde keselim. Tencereye sıvı yağı sirkeyi tuzu ilave edelim. Kaynamaya başladıktan sonra sarımsağı ve irice kestiğimiz biberleri ilave edelim orta ateşte biberlerin diriliğini kaybedinceye kadar pişir. Yaklaşık 20 dakika yeterli en son maydanozu ilave edip 5 dakika daha kaynatıp altını kapatalım. Sıcak sıcak kavanozlara pay edelim tencerenin dibindeki suyu şişelere pay edelim. Ağızlarını kapatıp ters çevirelim afiyet olsun :)"
+  }, {
+    "categoryId" : "11",
+    "id" : "96",
+    "image" : "https://www.tarifbulutu.com/wp-content/uploads/2018/09/arap-asi-corbasi.jpg",
+    "strMaterials" : "12 bardak su, 4 bardak un, 1 kaşık nişasta, 1.5 tatlı kaşığı tuz, tavuk göğsü, salça., ",
+    "strMeal" : "Arap Aşı",
+    "strRecipe" : "Hepsini mikserle çırp. Devamlı karıştırarak kıvam alana kadar pişir 25 dakika kadar kısık ateşte tepsiyi ıslat yaptığın hamuru tepsiye sallayarak dök. Çorbası:Tavuk göğsünü haşla sonra tencerede unu kavur ve salça ekle. Haşladığın tavuğu tiftik haline getir ve salçalı suyun içerisine at ve pişir afiyet olsun :)"
+  } ]
+}

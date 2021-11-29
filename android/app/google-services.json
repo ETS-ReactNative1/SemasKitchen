@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41207246231",
+    "firebase_url": "https://sema-skitchen-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sema-skitchen",
+    "storage_bucket": "sema-skitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41207246231:android:9b9cc35fd7441e820328d2",
+        "android_client_info": {
+          "package_name": "com.semakitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41207246231-92p5rm9v77ndhj57393gshaoqi77lfv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5q0bYEslPpmRBzrGDjUfzamzw19tO5io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41207246231-92p5rm9v77ndhj57393gshaoqi77lfv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
